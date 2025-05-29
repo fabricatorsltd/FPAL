@@ -27,6 +27,10 @@ Licensed under the Fabricators Public Access License (FPAL) v1.0
 See https://github.com/fabricatorsltd/FPAL for details.
 ```
 
+## License Badge
+
+[![License: FPAL-1.0](https://img.shields.io/badge/License-FPAL_1.0-orange.svg)](https://github.com/fabricatorsltd/FPAL/blob/main/LICENSE.md)
+
 ## Usage
 
 To adopt FPAL for your own software project, copy the license text from `LICENSE.md`, replace the placeholders with your project-specific details (such as project name, copyright holder, and contact email), and include it in your repository.
