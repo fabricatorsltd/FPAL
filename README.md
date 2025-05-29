@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/fabricatorsltd/FPAL/refs/heads/main/fpal-license-logo.png" alt="FPAL License Logo" height="82" />
   <h1>Fabricators Public Access License (FPAL)</h1>
-  <p>This repository contains the official text, header, and supporting materials for the **Fabricators Public Access License (FPAL) v1.0**.</p>
+  <p>This repository contains the official text, header, and supporting materials for the <b>Fabricators Public Access License (FPAL) v1.0</b>.</p>
 </div>
 
 ## Purpose
